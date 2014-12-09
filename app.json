@@ -1,0 +1,7 @@
+{
+  "name": "videokonusma",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/ilker20601/step6",
+  "logo": "http://videokonusma.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static","socket-io","node-static"]
+}

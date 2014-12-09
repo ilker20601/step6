@@ -120,7 +120,7 @@ getUserMedia(constraints, handleUserMedia, handleUserMediaError);
 console.log('Getting user media with constraints', constraints);
 
 if (location.hostname != "localhost") {
-  requestTurn('http://localhost:2013/');
+  requestTurn('https://videokonusma.herokuapp.com:2013/');
 }
 
 function maybeStart() {
